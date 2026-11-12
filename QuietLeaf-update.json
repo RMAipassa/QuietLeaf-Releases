@@ -1,7 +1,7 @@
 {
-  "apk": "QuietLeaf-0.12.0.apk",
-  "sha256": "c8c2b095757ab1338ee4e9634242843b4763f929b3926764db4bfe0750ea3732",
-  "versionCode": 28,
-  "versionName": "0.12.0",
-  "assetApiUrl": "https://api.github.com/repos/RMAipassa/QuietLeaf-Releases/releases/assets/739594721"
+  "apk": "QuietLeaf-0.13.0.apk",
+  "sha256": "0f0cd9cfc14f4a4bf0dd7e1b4d87c7b2fa7ffd4b413899dcc9a5b322d013019e",
+  "versionCode": 29,
+  "versionName": "0.13.0",
+  "assetApiUrl": "https://api.github.com/repos/RMAipassa/QuietLeaf-Releases/releases/assets/739790566"
 }
